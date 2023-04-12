@@ -1,2 +1,2 @@
 # Industrial-defect-detection-papers
-Collections of jndustrial defect detection papers 
+Collections of industrial defect detection papers 
